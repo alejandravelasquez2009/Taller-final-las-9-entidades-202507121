@@ -5,6 +5,7 @@ Mi personaje principal se basa en una persona que se puede convertir en varios a
 [analisis.docx](https://github.com/user-attachments/files/33140093/analisis.docx)
 # Fase 2. Desarollo
 https://icvh-my.sharepoint.com/:b:/g/personal/202507121_icvh_edu_gt1/IQBipj_WFOxxQYHViwmyvcVwAcvshL_LLDhAnKtnYioANs8?e=knuYhI
-# FASE 3. Diagrama de flujo
+# Fase 3. Diagrama de flujo
 https://icvh-my.sharepoint.com/:b:/g/personal/202507121_icvh_edu_gt1/IQBipj_WFOxxQYHViwmyvcVwAcvshL_LLDhAnKtnYioANs8?e=knuYhI
-
+# Fase 4. Código
+[codigo.docx](https://github.com/user-attachments/files/33141235/codigo.docx)
